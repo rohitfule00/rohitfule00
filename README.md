@@ -25,23 +25,25 @@ I enjoy turning ideas into practical, user-friendly applications and continuousl
 
 ## 🛠️ Tech Stack
 
-### Backend
-- Python
-- Django
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+</p>
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=django" />
+</p>
 
-### Database
-- SQL
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Tools
-- Git
-- GitHub
-- VS Code
-
+### 🔧 Tools & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 ---
 
 ## 📌 What I'm Currently Working On
@@ -53,9 +55,35 @@ I enjoy turning ideas into practical, user-friendly applications and continuousl
 
 ---
 
-## 📂 Featured Projects
+## 🚧 Currently Working On
 
-> 🚧 Projects will be added here as they are completed and polished.
+### 🎓 Student Management System
+
+I'm currently developing a full-stack **Student Management System** using Django.
+
+**Technologies:**
+- Python
+- Django
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+**Current Focus:**
+- Django project structure
+- Database models and relationships
+- CRUD operations
+- Authentication
+- Frontend integration
+- REST APIs
+
+> 🚀 Project is currently under development.
+
+---
+
+## 📂 Projects
+
+More projects will be added here as I complete and document them.
 
 ---
 
