@@ -1,6 +1,10 @@
-# Hi, I'm Rohit Fule 👋
+<h1 align="center">Hi 👋, I'm Rohit Fule</h1>
 
-### 🐍 Python Full-Stack Developer
+<h3 align="center">🐍 Python Full-Stack Developer | Django | REST APIs | SQL</h3>
+
+<p align="center">
+  Building practical and scalable web applications with Python and modern web technologies.
+</p>
 
 I build web applications using **Python, Django, SQL, HTML, CSS, and JavaScript**.
 
